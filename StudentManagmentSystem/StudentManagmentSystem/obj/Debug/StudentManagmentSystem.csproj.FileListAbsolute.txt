@@ -1,0 +1,14 @@
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.exe.config
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.exe
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.pdb
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.Properties.Resources.resources
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.GenerateResource.cache
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CopyComplete
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.exe
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.pdb
+C:\Users\lab316_student06\Documents\DOTNET\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.Main.resources
