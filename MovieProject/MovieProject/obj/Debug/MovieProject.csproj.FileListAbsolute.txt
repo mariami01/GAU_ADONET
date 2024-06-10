@@ -1,0 +1,17 @@
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\MovieProject.exe.config
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\MovieProject.exe
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\MovieProject.pdb
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\EntityFramework.dll
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\EntityFramework.xml
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.AssemblyReference.cache
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.Properties.Resources.resources
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.GenerateResource.cache
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.csproj.CoreCompileInputs.cache
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MoviePro.AB8AF93D.Up2Date
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.exe
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.pdb
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.Migrations.InitialCreate.resources
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.MainForm.resources
+C:\Users\iveri\Desktop\mariammiz\MovieProject\MovieProject\obj\Debug\MovieProject.Migrations.UpdateMovieModel.resources
