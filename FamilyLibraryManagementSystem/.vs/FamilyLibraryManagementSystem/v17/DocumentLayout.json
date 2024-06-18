@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\migrations\\202406180659473_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\migrations\\202406180659473_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\data\\libraryinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\data\\libraryinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|c:\\users\\iveri\\desktop\\mariammiz\\dotnet-wcf-webapi\\.github\\familylibrarymanagementsystem\\familylibrarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87322C1-052A-46DE-9A76-FCFC508D05B9}|FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem.csproj|solutionrelative:familylibrarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:58:24.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\MainForm.cs",
+              "ViewState": "AQIAAFsAAACAMzMzMzMTwGcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:52:47.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\App.config",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-18T05:20:28.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:09:39.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Services\\LibraryService.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:43:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAA4AAACAZmZmZmYowCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:00:19.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202406180659473_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Migrations\\202406180659473_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Migrations\\202406180659473_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Migrations\\202406180659473_InitialCreate.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Migrations\\202406180659473_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:59:53.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:59:38.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\LibraryInitializer.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Data\\LibraryInitializer.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\LibraryInitializer.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Data\\LibraryInitializer.cs",
+              "ViewState": "AQIAABwAAACAZmZmZmYswCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:56:10.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\packages.config",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\packages.config",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\packages.config",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-18T05:28:26.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Models\\Owner.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Models\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:19:23.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Data\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Data\\LibraryContext.cs",
+              "ViewState": "AQIAAAgAAADgMzMzMzMbwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:27:13.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\Repository.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Data\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:22:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Data\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:25:51.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\IRepository.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Data\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:23:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Models\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Models\\BorrowedBook.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Models\\BorrowedBook.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Models\\BorrowedBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:19:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:25:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "FamilyLibraryManagementSystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\DOTNET-WCF-WEBAPI\\.github\\FamilyLibraryManagementSystem\\FamilyLibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "FamilyLibraryManagementSystem\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:18:54.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

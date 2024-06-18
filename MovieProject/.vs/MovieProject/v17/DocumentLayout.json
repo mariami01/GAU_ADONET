@@ -1,12 +1,218 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\MovieProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|c:\\users\\iveri\\desktop\\mariammiz\\gau_adonet\\movieproject\\movieproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\mainform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\models\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\models\\moviecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\models\\moviereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\models\\moviereview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\models\\moviereviewmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\models\\moviereviewmovies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\migrations\\202406091014191_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\migrations\\202406091014191_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\migrations\\202406091325260_updatemoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\migrations\\202406091325260_updatemoviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\movieproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD45D30-C065-44FE-811E-CF8FCF70F47D}|MovieProject\\MovieProject.csproj|solutionrelative:movieproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.cs",
+              "RelativeDocumentMoniker": "MovieProject\\MainForm.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.cs",
+              "RelativeToolTip": "MovieProject\\MainForm.cs",
+              "ViewState": "AQIAAOYAAACAmZmZmZkkwBUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:01:02.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.resx",
+              "RelativeDocumentMoniker": "MovieProject\\MainForm.resx",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.resx",
+              "RelativeToolTip": "MovieProject\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-12T07:00:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MovieProject\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.Designer.cs",
+              "RelativeToolTip": "MovieProject\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:00:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.cs",
+              "RelativeDocumentMoniker": "MovieProject\\MainForm.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\MainForm.cs [Design]",
+              "RelativeToolTip": "MovieProject\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:52:51.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202406091014191_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Migrations\\202406091014191_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Migrations\\202406091014191_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Migrations\\202406091014191_InitialCreate.cs",
+              "RelativeToolTip": "MovieProject\\Migrations\\202406091014191_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:59:01.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieReviewMovies.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Models\\MovieReviewMovies.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Models\\MovieReviewMovies.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Models\\MovieReviewMovies.cs",
+              "RelativeToolTip": "MovieProject\\Models\\MovieReviewMovies.cs",
+              "ViewState": "AQIAAAkAAABAZmZmZmYkwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:53:05.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieReview.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Models\\MovieReview.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Models\\MovieReview.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Models\\MovieReview.cs",
+              "RelativeToolTip": "MovieProject\\Models\\MovieReview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:58:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieCategory.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Models\\MovieCategory.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Models\\MovieCategory.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Models\\MovieCategory.cs",
+              "RelativeToolTip": "MovieProject\\Models\\MovieCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:53:02.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202406091325260_UpdateMovieModel.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Migrations\\202406091325260_UpdateMovieModel.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Migrations\\202406091325260_UpdateMovieModel.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Migrations\\202406091325260_UpdateMovieModel.cs",
+              "RelativeToolTip": "MovieProject\\Migrations\\202406091325260_UpdateMovieModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:58:59.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MovieProject\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:58:24.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "MovieProject\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:57:54.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Program.cs",
+              "RelativeDocumentMoniker": "MovieProject\\Program.cs",
+              "ToolTip": "C:\\Users\\iveri\\Desktop\\mariammiz\\GAU_ADONET\\MovieProject\\MovieProject\\Program.cs",
+              "RelativeToolTip": "MovieProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:58:16.692Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
