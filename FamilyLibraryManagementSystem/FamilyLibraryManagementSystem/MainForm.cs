@@ -1,4 +1,5 @@
-﻿using FamilyLibraryManagementSystem.Services;
+﻿using FamilyLibraryManagementSystem.Models;
+using FamilyLibraryManagementSystem.Services;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,11 +16,14 @@ namespace FamilyLibraryManagementSystem
     {
 
         private readonly LibraryService _libraryService;
+        private int _selectedBookId;
+
 
         public MainForm(LibraryService libraryService)
         {
             _libraryService = libraryService;
             InitializeComponent();
+            LoadBooks();
         }
 
         private void LoadBooks()
@@ -30,9 +34,9 @@ namespace FamilyLibraryManagementSystem
                 b.Author,
                 OwnerName = b.Owner?.Name ?? "N/A",
                 OwnerLastName = b.Owner?.LastName ?? "N/A",
-                BorrowerName = b.BorrowedBooks.FirstOrDefault()?.BorrowerName ?? "N/A",
-                BorrowerLastName = b.BorrowedBooks.FirstOrDefault()?.BorrowerLastName ?? "N/A",
-                BorrowedDate = b.BorrowedBooks.FirstOrDefault()?.BorrowedDate.ToString("yyyy-MM-dd") ?? "N/A"
+               // BorrowerName = b.BorrowedBooks.FirstOrDefault()?.BorrowerName ?? "N/A",
+              //  BorrowerLastName = b.BorrowedBooks.FirstOrDefault()?.BorrowerLastName ?? "N/A",
+               // BorrowedDate = b.BorrowedBooks.FirstOrDefault()?.BorrowedDate.ToString("yyyy-MM-dd") ?? "N/A"
             }).ToList();
 
             dataGridViewBooks.DataSource = books;
@@ -97,11 +101,57 @@ namespace FamilyLibraryManagementSystem
             var ownerNameText = OwnerName.Text;
             var shelveNumber = (int)shelveNumbernumericUpDown.Value;
 
-            // Assuming you have a method in LibraryService to add a book
             _libraryService.AddBook(title, "AuthorName", shelveNumber.ToString(), ownerNameText, "OwnerLastName", borrowerNameText, borrowerLastNameText, DateTime.Now);
 
             MessageBox.Show("Book added successfully");
             LoadBooks();
+        }
+
+        private void deleteBtn_Click(object sender, EventArgs e)
+        {
+            var success = _libraryService.DeleteBook(_selectedBookId);
+
+            if (success)
+            {
+                MessageBox.Show("Book deleted successfully");
+            }
+            else
+            {
+                MessageBox.Show("An issue occurred while deleting the book");
+            }
+            LoadBooks();
+        }
+
+        private void Editbtn_Click(object sender, EventArgs e)
+        {
+            var title = bookname.Text;
+            var ownerNameText = OwnerName.Text;
+            var shelveNumber = (int)shelveNumbernumericUpDown.Value;
+
+            var success = _libraryService.UpdateBook(_selectedBookId, title, "AuthorName", shelveNumber.ToString(), ownerNameText, "OwnerLastName");
+
+            if (success)
+            {
+                MessageBox.Show("Book updated successfully");
+            }
+            else
+            {
+                MessageBox.Show("An issue occurred while updating the book");
+            }
+            LoadBooks();
+        }
+
+        private void dataGridViewBooks_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dataGridViewBooks.SelectedRows.Count > 0)
+            {
+                var row = dataGridViewBooks.SelectedRows[0];
+                _selectedBookId = Convert.ToInt32(row.Cells["Id"].Value);
+                bookname.Text = row.Cells["Title"].Value.ToString();
+                OwnerName.Text = row.Cells["OwnerName"].Value.ToString();
+                borrowerName.Text = row.Cells["BorrowerName"].Value.ToString();
+                borrowerLastname.Text = row.Cells["BorrowerLastName"].Value.ToString();
+            }
         }
     }
 }

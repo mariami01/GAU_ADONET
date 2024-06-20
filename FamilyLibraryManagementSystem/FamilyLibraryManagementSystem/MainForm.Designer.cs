@@ -41,6 +41,8 @@
             this.OwnerName = new System.Windows.Forms.TextBox();
             this.shelveNumbernumericUpDown = new System.Windows.Forms.NumericUpDown();
             this.addBtn = new System.Windows.Forms.Button();
+            this.deleteBtn = new System.Windows.Forms.Button();
+            this.Editbtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewBooks)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.shelveNumbernumericUpDown)).BeginInit();
             this.SuspendLayout();
@@ -165,11 +167,33 @@
             this.addBtn.UseVisualStyleBackColor = true;
             this.addBtn.Click += new System.EventHandler(this.addBtn_Click);
             // 
+            // deleteBtn
+            // 
+            this.deleteBtn.Location = new System.Drawing.Point(368, 366);
+            this.deleteBtn.Name = "deleteBtn";
+            this.deleteBtn.Size = new System.Drawing.Size(75, 23);
+            this.deleteBtn.TabIndex = 37;
+            this.deleteBtn.Text = "Delete";
+            this.deleteBtn.UseVisualStyleBackColor = true;
+            this.deleteBtn.Click += new System.EventHandler(this.deleteBtn_Click);
+            // 
+            // Editbtn
+            // 
+            this.Editbtn.Location = new System.Drawing.Point(477, 366);
+            this.Editbtn.Name = "Editbtn";
+            this.Editbtn.Size = new System.Drawing.Size(75, 23);
+            this.Editbtn.TabIndex = 38;
+            this.Editbtn.Text = "Edit";
+            this.Editbtn.UseVisualStyleBackColor = true;
+            this.Editbtn.Click += new System.EventHandler(this.Editbtn_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1028, 490);
+            this.Controls.Add(this.Editbtn);
+            this.Controls.Add(this.deleteBtn);
             this.Controls.Add(this.addBtn);
             this.Controls.Add(this.shelveNumbernumericUpDown);
             this.Controls.Add(this.OwnerName);
@@ -208,6 +232,8 @@
         private System.Windows.Forms.TextBox OwnerName;
         private System.Windows.Forms.NumericUpDown shelveNumbernumericUpDown;
         private System.Windows.Forms.Button addBtn;
+        private System.Windows.Forms.Button deleteBtn;
+        private System.Windows.Forms.Button Editbtn;
     }
 }
 

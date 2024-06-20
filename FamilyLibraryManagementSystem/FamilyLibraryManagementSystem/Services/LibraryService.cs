@@ -36,5 +36,37 @@ namespace FamilyLibraryManagementSystem.Services
         {
             return _unitOfWork.Books.GetAll();
         }
+
+        public bool UpdateBook(int bookId, string title, string author, string shelveNumber, string ownerName, string ownerLastName)
+        {
+            var book = _unitOfWork.Books.GetById(bookId);
+            if (book != null)
+            {
+                var owner = book.Owner;
+                owner.Name = ownerName;
+                owner.LastName = ownerLastName;
+
+                book.Title = title;
+                book.Author = author;
+                book.ShelveNumber = shelveNumber;
+
+                _unitOfWork.Books.Update(book);
+                _unitOfWork.Complete();
+                return true;
+            }
+            return false;
+        }
+
+        public bool DeleteBook(int bookId)
+        {
+            var book = _unitOfWork.Books.GetById(bookId);
+            if (book != null)
+            {
+                _unitOfWork.Books.Delete(book);
+                _unitOfWork.Complete();
+                return true;
+            }
+            return false;
+        }
     }
 }

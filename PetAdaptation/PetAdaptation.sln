@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetAdaptation", "PetAdaptation\PetAdaptation.csproj", "{945000C6-A5B5-4AB4-A140-546EB4DA077A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO1\DTO.csproj", "{067B065A-5F18-4992-9754-8274ED2D7665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945000C6-A5B5-4AB4-A140-546EB4DA077A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945000C6-A5B5-4AB4-A140-546EB4DA077A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945000C6-A5B5-4AB4-A140-546EB4DA077A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945000C6-A5B5-4AB4-A140-546EB4DA077A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067B065A-5F18-4992-9754-8274ED2D7665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067B065A-5F18-4992-9754-8274ED2D7665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067B065A-5F18-4992-9754-8274ED2D7665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067B065A-5F18-4992-9754-8274ED2D7665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86530E0-E88E-40AA-8266-358FF7499F1B}
+	EndGlobalSection
+EndGlobal
